@@ -38,15 +38,15 @@ examples/pembuluh-darah/      satu short lengkap: "Seberapa Panjang Pembuluh Dar
 **Sebagai plugin** (di Claude Code):
 
 ```
-/plugin marketplace add <username-github>/zackd-style-shorts
+/plugin marketplace add ancisaltylayty/Blender-Animation
 /plugin install zack-d-short@zackd-style-shorts
 ```
 
 **Atau salin manual** ke folder skill:
 
 ```bash
-git clone https://github.com/<username-github>/zackd-style-shorts
-cp -r zackd-style-shorts/skills/zack-d-short ~/.claude/skills/
+git clone https://github.com/ancisaltylayty/Blender-Animation
+cp -r Blender-Animation/skills/zack-d-short ~/.claude/skills/
 ```
 
 Lalu di Claude Code, minta saja, misalnya:
