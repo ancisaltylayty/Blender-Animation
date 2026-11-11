@@ -1,0 +1,7 @@
+{
+  "name": "zack-d-short",
+  "version": "1.0.0",
+  "description": "Make vertical 3D explainer shorts in the Zack D. Films style with Blender + Python + ffmpeg, with Indonesian narration and captions.",
+  "license": "MIT",
+  "keywords": ["blender", "shorts", "video", "3d", "indonesia", "captions"]
+}

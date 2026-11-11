@@ -1,0 +1,19 @@
+# renders and scene files
+renders/
+*.blend
+*.blend1
+__pycache__/
+*.pyc
+
+# large or licensed assets: fetch them yourself (see examples/*/assets/README.md)
+*.fbx
+examples/*/assets/*.jpg
+examples/*/assets/*.png
+examples/*/assets/*.tif
+
+# reference downloads from analyze_reference.py
+refs/
+
+# audio you record
+*.wav
+*.mp3

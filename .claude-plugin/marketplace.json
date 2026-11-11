@@ -1,0 +1,11 @@
+{
+  "name": "zackd-style-shorts",
+  "owner": { "name": "zackd-style-shorts contributors" },
+  "plugins": [
+    {
+      "name": "zack-d-short",
+      "source": "./",
+      "description": "Short 3D vertikal gaya Zack D. Films dengan Blender + Python + ffmpeg, narasi dan caption Bahasa Indonesia."
+    }
+  ]
+}
